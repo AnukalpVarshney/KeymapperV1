@@ -1,0 +1,30 @@
+To Run The Software Successfully You Need To Install Two Basic Libraries Of Python In Your System.
+
+----------------------------------------------------
+
+Major Requirement :
+
+Python 3.0 Or Above Should Be Installed On Your System.
+
+If Not Go To : https://www.python.org/ And Download
+
+----------------------------------------------------
+
+Libraries :
+
+keyboard
+appopener
+
+----------------------------------------------------
+
+Step 1 : Open Command Prompt (CMD)
+
+Step 2 : Type : "pip install keyboard" (Wait Till It Says Installed Successfully)
+
+Step 3 : Type : "pip install appopener" (Wait Till It Says Installed Successfully)
+
+Step 4 : Close The CMD
+
+ENJOY !!
+
+Follow : https://www.github.com/AnukalpVarshney/
