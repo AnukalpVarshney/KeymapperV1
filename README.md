@@ -13,7 +13,7 @@
 📸 Preview
 (Add a screenshot here if you have one)
 
-![KeyMapper Preview](preview.png)
+![KeyMapper Preview](preview.PNG)
 
 🚀 Getting Started
 Clone the repository:
