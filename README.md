@@ -11,7 +11,6 @@
 🧠 Beginner-friendly and open-source
 
 📸 Preview
-(Add a screenshot here if you have one)
 
 ![KeyMapper Preview](preview.PNG)
 
